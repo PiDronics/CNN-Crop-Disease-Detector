@@ -1,4 +1,4 @@
-# **Crop: Plant Disease Identification Using App.**
+# **Crop Disease Classification.**
 
 - Using Deep Learning to detect Crop diseases.
 
